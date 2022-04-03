@@ -11,7 +11,7 @@ The purpose of this site is to showcase my deployed projects and give potential 
 https://hectorromo06.github.io/professional-portfolio/
 
 ## Image of Application
-
+![image](./assets/images/final-product.png)
 
 ## Author
 Hector Romo
