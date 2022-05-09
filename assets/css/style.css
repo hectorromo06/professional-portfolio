@@ -146,6 +146,10 @@ header nav ul li a {
     background-image: url(../images/run-buddy.png);
 }
 
+.player-details {
+    background-image: url(../images/player-details.png);
+}
+
 .placeholder{
     background-image: url(../images/image-placeholder.jpeg);
 }
