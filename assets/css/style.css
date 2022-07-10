@@ -150,6 +150,10 @@ header nav ul li a {
     background-image: url(../images/player-details.png);
 }
 
+.depression-sink {
+    background-image: url(../images/depression-sink.png);
+}
+
 .placeholder{
     background-image: url(../images/image-placeholder.jpeg);
 }
