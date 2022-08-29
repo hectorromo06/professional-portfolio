@@ -154,6 +154,10 @@ header nav ul li a {
     background-image: url(../images/depression-sink.png);
 }
 
+.purly {
+    background-image: url(../images/purly.png);
+}
+
 .placeholder{
     background-image: url(../images/image-placeholder.jpeg);
 }
