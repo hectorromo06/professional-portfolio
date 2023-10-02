@@ -142,8 +142,8 @@ header nav ul li a {
     color: var(--main-text-color);
 }
 
-.run-buddy {
-    background-image: url(../images/run-buddy.png);
+.team-profile-generator {
+    background-image: url(../images/team-profile-generator.png);
 }
 
 .player-details {
