@@ -144,26 +144,32 @@ header nav ul li a {
 
 .team-profile-generator {
     background-image: url(../images/team-profile-generator.png);
+    background-position: center;
 }
 
 .readme-generator {
     background-image: url(../images/readme-generator.png);
+    background-position: left;
 }
 
 .weather-dashboard {
     background-image: url(../images/weather-dashboard.png);
+    background-position: center;
 }
 
 .work-scheduler {
     background-image: url(../images/work-scheduler.png);
+    background-position: center;
 }
 
 .code-quiz {
     background-image: url(../images/code-quiz.png);
+    background-position: center;
 }
 
 .password-generator {
     background-image: url(../images/password-generator.png);
+    background-position: center;
 }
 
 .placeholder{
