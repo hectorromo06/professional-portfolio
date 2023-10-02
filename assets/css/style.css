@@ -158,6 +158,10 @@ header nav ul li a {
     background-image: url(../images/work-scheduler.png);
 }
 
+.code-quiz {
+    background-image: url(../images/code-quiz.png);
+}
+
 .placeholder{
     background-image: url(../images/image-placeholder.jpeg);
 }
