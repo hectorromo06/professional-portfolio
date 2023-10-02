@@ -162,6 +162,10 @@ header nav ul li a {
     background-image: url(../images/code-quiz.png);
 }
 
+.password-generator {
+    background-image: url(../images/password-generator.png);
+}
+
 .placeholder{
     background-image: url(../images/image-placeholder.jpeg);
 }
